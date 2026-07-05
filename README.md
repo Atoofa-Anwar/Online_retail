@@ -115,5 +115,5 @@ Online-Retail-Sales-Analysis/
 ├── Images/
 └── README.md
 ```
-## Author
+##Name
 Atoofa anwar
